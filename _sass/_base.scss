@@ -297,8 +297,8 @@ header {
     margin-left: 5px;
 }
 
+
 .brand-logo {
-    display: inline-flex;
     height: 50px;
 }
 
@@ -320,6 +320,9 @@ header {
     line-height: 20px;
 }
   
+.navbar-brand>img {
+    display: inline-flex;
+}
 
 // Button Styles
 .btn-default {
