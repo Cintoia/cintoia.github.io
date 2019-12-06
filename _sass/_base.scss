@@ -121,7 +121,8 @@ aside {
             color: rgba(white, 1.0);
             &:hover,
             &:focus {
-                color: white;
+                // color: white;
+                color: #F05F40;
             }
         }
         .nav > li > a,
