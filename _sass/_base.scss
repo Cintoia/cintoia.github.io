@@ -8,6 +8,11 @@ body {
     @include serif-font;
 }
 
+.logo {
+    @include logo-font;
+}
+
+
 hr {
     border-color: $theme-primary;
     border-width: 3px;
