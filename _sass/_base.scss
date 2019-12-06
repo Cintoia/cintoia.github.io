@@ -291,8 +291,10 @@ header {
     }
 }
 
-.nav-text {
+.brand-text {
+    @include logo-font;
     padding-top: 15px;
+    margin-left: 5px;
 }
 
 .brand-logo {
