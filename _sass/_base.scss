@@ -76,6 +76,10 @@ aside {
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
+    .logo {
+        @include logo-font;
+        font-weight: 400;
+    }
     .navbar-header .navbar-brand {
         color: $theme-primary;
         @include sans-serif-font;
@@ -112,13 +116,9 @@ aside {
     }
     @media (min-width: 768px) {
         background-color: transparent;
-        border-color: rgba(white, .3);
-        .logo {
-            @include logo-font;
-            font-weight: 400;
-        }
+        border-color: rgba(white, .7);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: rgba(white);
             &:hover,
             &:focus {
                 color: white;
