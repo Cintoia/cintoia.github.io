@@ -295,6 +295,10 @@ header {
     padding-top: 15px;
 }
 
+.brand-logo {
+    height: 50px;
+}
+
 // Bootstrap Overrides
 .text-primary {
     color: $theme-primary;
@@ -304,6 +308,15 @@ header {
     padding-right:0;
     padding-left:0;
 }
+
+.navbar-brand {
+    float: left;
+    height: 50px;
+    padding: 0px 15px;
+    font-size: 18px;
+    line-height: 20px;
+}
+  
 
 // Button Styles
 .btn-default {
