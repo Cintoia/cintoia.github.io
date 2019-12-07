@@ -5,8 +5,7 @@ fetch('flare.json').then(res => res.json()).then(data => {
     .label('name')
     .maxLevels(2)
     .size('size')
-    .color((d, parent) => color(parent ? parent.data.name : null))
+    .color((d, parent) => color((d.col ? d.col : (parent ? parent.data.col : null))))
     .tooltipContent((d, node) => `Size: <i>${node.value}</i>`)
-    (document.getElementById('sunburst-service'));
+    (document.getElementById('sunburst-service'))
 })
-
