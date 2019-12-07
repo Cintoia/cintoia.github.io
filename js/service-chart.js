@@ -1,10 +1,11 @@
 const color = d3.scaleOrdinal(d3.schemePaired)
-
+var serviceChart
 fetch('flare.json').then(res => res.json()).then(data => {
-  Sunburst()
+  serviceChart = Sunburst()
     .data(data)
     .label('name')
     .width(400)
+    .height(400)
     .maxLevels(2)
     .size('size')
     .color(setColor)
