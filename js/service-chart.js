@@ -1,8 +1,10 @@
-const color = d3.scaleOrdinal(d3.schemePaired);
+const color = d3.scaleOrdinal(d3.schemePaired)
+
 fetch('flare.json').then(res => res.json()).then(data => {
   Sunburst()
     .data(data)
     .label('name')
+    .width(400)
     .maxLevels(2)
     .size('size')
     .color(setColor)
