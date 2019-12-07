@@ -3,6 +3,7 @@ fetch('flare.json').then(res => res.json()).then(data => {
   Sunburst()
     .data(data)
     .label('name')
+    .maxLevels(2)
     .size('size')
     .color((d, parent) => color(parent ? parent.data.name : null))
     .tooltipContent((d, node) => `Size: <i>${node.value}</i>`)
