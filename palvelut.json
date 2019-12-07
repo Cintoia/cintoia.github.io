@@ -63,23 +63,23 @@
       "children": [
         {
           "name": "Jäsenrekisterin ylläpito",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Jäsenkyselyt",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Yhdistyksen kokousten valmistelu",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Jäsenmaksut",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Raportointi",
-          "size": 100
+          "size": 200
         }
       ]
     },
@@ -88,28 +88,19 @@
       "children": [
         {
           "name": "Työsopimukset",
-          "size": 100
+          "size": 250
         },
         {
           "name": "Työajan seuranta ja raportointi",
-          "size": 100
+          "size": 250
         },
         {
           "name": "Henkilöstön kehittäminen",
-          "size": 100
+          "size": 250
         },
         {
           "name": "Rekrytointi",
-          "size": 100
-        }
-      ]
-    },
-    {
-      "name": "Leirit",
-      "children": [
-        {
-          "name": "AspectRatioBanker",
-          "size": 100
+          "size": 250
         }
       ]
     },
@@ -118,23 +109,23 @@
       "children": [
         {
           "name": "Sopimusten hallinta",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Verotus",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Tietosuoja-asiat",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Yhdistyshallinto",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Konsultointi muissa lakiasioissa",
-          "size": 100
+          "size": 200
         }
       ]
     },
@@ -143,57 +134,53 @@
       "children": [
         {
           "name": "Jäsenviestinnän toteuttaminen",
-          "size": 100,
           "children": [
             {
               "name": "Sosiaalinen media",
-              "size": 100
+              "size": 71
             },
             {
               "name": "Infonäytöt",
-              "size": 100
+              "size": 71
             }
           ]
         },
         {
           "name": "Markkinointiviestinnän toteuttaminen",
-          "size": 100,
           "children": [
             {
               "name": "Verkkokampanjat",
-              "size": 100
+              "size": 48
             },
             {
               "name": "Infonäytöt",
-              "size": 100
+              "size": 48
             },
             {
               "name": "Printti",
-              "size": 100
+              "size": 48
             }
           ]
         },
         {
           "name": "Sisällön toteuttaminen",
-          "size": 100,
           "children": [
             {
               "name": "Tekstit",
-              "size": 100
+              "size": 48
             },
             {
               "name": "Grafiikka",
-              "size": 100
+              "size": 48
             },
             {
               "name": "Videot",
-              "size": 100
+              "size": 48
             }
           ]
         },
         {
           "name": "Tekninen toteutus",
-          "size": 100,
           "children": [
             {
               "name": "Infonäytöt",
@@ -211,15 +198,15 @@
         },
         {
           "name": "Viestintäkanavien kehittäminen",
-          "size": 100
+          "size": 143
         },
         {
           "name": "Näkyvyyden raportointi",
-          "size": 100
+          "size": 143
         },
         {
           "name": "Kustannusraportointi",
-          "size": 100
+          "size": 143
         }
       ]
     },
@@ -228,37 +215,36 @@
       "children": [
         {
           "name": "Avustushakemukset",
-          "size": 100,
           "children": [
             {
               "name": "Seuratuki",
-              "size": 100
+              "size": 67
             },
             {
               "name": "Kaupungin/kunnan tuet",
-              "size": 100
+              "size": 67
             },
             {
               "name": "Säätiöt",
-              "size": 100
+              "size": 67
             }
           ]
         },
         {
           "name": "Yhteistyöpakettien konseptointi",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Yritysten kontaktointi ja yhteistyöneuvottelut",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Seurayhteistyöt",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Koulujen yhteistyöt",
-          "size": 100
+          "size": 200
         }
       ]
     },
@@ -267,31 +253,31 @@
       "children": [
         {
           "name": "Valmennusjärjestelmän kehittäminen",
-          "size": 100
+          "size": 143
         },
         {
           "name": "Valmennuspalveluiden tuotteistaminen",
-          "size": 100
+          "size": 143
         },
         {
           "name": "Valmennustoiminnan ylläpitäminen",
-          "size": 100
+          "size": 143
         },
         {
           "name": "Valmentajien rekrytointi",
-          "size": 100
+          "size": 143
         },
         {
           "name": "Valmentajien kouluttaminen",
-          "size": 100
+          "size": 143
         },
         {
           "name": "Valmentajien tuurausjärjestelmä",
-          "size": 100
+          "size": 143
         },
         {
           "name": "Varustehankinnat",
-          "size": 100
+          "size": 143
         }
       ]
     },
@@ -300,23 +286,23 @@
       "children": [
         {
           "name": "Kiinteistönhuoltoon liittyvät sopimukset",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Vakiovuorosopimusten hallinta",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Varausjärjestelmä",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Ylläpitotoiminta",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Hallien/kenttien rakennushankkeiden konsultointi",
-          "size": 100
+          "size": 200
         }
       ]
     },
@@ -325,23 +311,23 @@
       "children": [
         {
           "name": "Kilpailujen suunnittelu ja anominen",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Arvonta ja aikataulutus",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Kilpailunjohtajapalvelut",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Seuran kilpailujohtajien koulutus",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Arvokilpailuiden järjestäminen",
-          "size": 100
+          "size": 200
         }
       ]
     },
@@ -350,35 +336,34 @@
       "children": [
         {
           "name": "Sarjatennisjoukkueiden organisointi",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Sarjatennisjoukkueiden aikataulutus",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Juniorijoukkueiden ystävyysottelut",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Seurojen ystävyysottelut",
-          "size": 100
+          "size": 200
         },
         {
           "name": "Kansainvälisten kilpailuiden matkat",
-          "size": 100,
           "children": [
             {
               "name": "Tennis Europe",
-              "size": 100
+              "size": 67
             },
             {
               "name": "ITF",
-              "size": 100
+              "size": 67
             },
             {
               "name": "Senior ITF",
-              "size": 100
+              "size": 67
             }
           ]
         }
@@ -389,29 +374,28 @@
       "children": [
         {
           "name": "Tapahtumien ja leirien järjestäminen",
-          "size": 100,
           "children": [
             {
               "name": "Kesäleirit",
-              "size": 100
+              "size": 125
             },
             {
               "name": "Harjoitusleirit",
-              "size": 100
+              "size": 125
             },
             {
               "name": "Seuramatkat",
-              "size": 100
+              "size": 125
             },
             {
               "name": "Turnausmatkat - ATP, WTA, Grand Slam",
-              "size": 100
+              "size": 125
             }
           ]
         },
         {
           "name": "Tapahtumien suunnittelu",
-          "size": 100
+          "size": 500
         }
       ]
     }
