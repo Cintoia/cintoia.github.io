@@ -6,10 +6,9 @@ fetch('palvelut.json').then(res => res.json()).then(data => {
     .label('name')
     .width(400)
     .height(400)
-    .maxLevels(2)
+    .maxLevels(3)
     .size('size')
     .color(setColor)
-    .tooltipContent((d, node) => `Size: <i>${node.value}</i>`)
     (document.getElementById('sunburst-service'))
 })
 
