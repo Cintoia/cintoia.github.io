@@ -1,0 +1,422 @@
+{
+  "name": "Seura",
+  "col": "green",
+  "children": [
+    {
+      "name": "Talous",
+      "col": "yellow",
+      "children": [
+        {
+          "name": "Kirjanpito",
+          "col": "orange",
+          "size": 100
+        },
+        {
+          "name": "Laskutus",
+          "col": "orange",
+          "size": 100
+        },
+        {
+          "name": "Perintä",
+          "col": "orange",
+          "size": 100
+        },
+        {
+          "name": "Palkanmaksu",
+          "col": "orange",
+          "size": 100
+        },
+        {
+          "name": "Kustannusseuranta",
+          "col": "orange",
+          "size": 100
+        },
+        {
+          "name": "Kassavirta",
+          "col": "orange",
+          "size": 100
+        },
+        {
+          "name": "Budjetointi",
+          "col": "orange",
+          "size": 100
+        },
+        {
+          "name": "Raportointi",
+          "col": "orange",
+          "size": 100
+        },
+        {
+          "name": "Tilinpäätös",
+          "col": "orange",
+          "size": 100
+        },
+        {
+          "name": "Veroilmoitukset",
+          "col": "orange",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "Jäsenasiat",
+      "children": [
+        {
+          "name": "Jäsenrekisterin ylläpito",
+          "size": 100
+        },
+        {
+          "name": "Jäsenkyselyt",
+          "size": 100
+        },
+        {
+          "name": "Yhdistyksen kokousten valmistelu",
+          "size": 100
+        },
+        {
+          "name": "Jäsenmaksut",
+          "size": 100
+        },
+        {
+          "name": "Raportointi",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "Henkilöstö",
+      "children": [
+        {
+          "name": "Työsopimukset",
+          "size": 100
+        },
+        {
+          "name": "Työajan seuranta ja raportointi",
+          "size": 100
+        },
+        {
+          "name": "Henkilöstön kehittäminen",
+          "size": 100
+        },
+        {
+          "name": "Rekrytointi",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "Leirit",
+      "children": [
+        {
+          "name": "AspectRatioBanker",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "Lakiasiat",
+      "children": [
+        {
+          "name": "Sopimusten hallinta",
+          "size": 100
+        },
+        {
+          "name": "Verotus",
+          "size": 100
+        },
+        {
+          "name": "Tietosuoja-asiat",
+          "size": 100
+        },
+        {
+          "name": "Yhdistyshallinto",
+          "size": 100
+        },
+        {
+          "name": "Konsultointi muissa lakiasioissa",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "Markkinointi ja viestintä",
+      "children": [
+        {
+          "name": "Jäsenviestinnän toteuttaminen",
+          "size": 100,
+          "children" :[
+            {
+              "name": "Sosiaalinen media",
+              "size": 100
+            },
+            {
+              "name": "Infonäytöt",
+              "size": 100
+            }
+          ]
+        },
+        {
+          "name": "Markkinointiviestinnän toteuttaminen",
+          "size": 100,
+          "children" :[
+            {
+              "name": "Verkkokampanjat",
+              "size": 100
+            },
+            {
+              "name": "Infonäytöt",
+              "size": 100
+            },
+            {
+              "name": "Printti",
+              "size": 100
+            }
+          ]
+        },
+        {
+          "name": "Sisällön toteuttaminen",
+          "size": 100,
+          "children" :[
+            {
+              "name": "Tekstit",
+              "size": 100
+            },
+            {
+              "name": "Grafiikka",
+              "size": 100
+            },
+            {
+              "name": "Videot",
+              "size": 100
+            }
+          ]
+        },
+        {
+          "name": "Tekninen toteutus",
+          "size": 100,
+          "children" :[
+            {
+              "name": "Infonäytöt",
+              "size": 100
+            },
+            {
+              "name": "WWW sivustot",
+              "size": 100
+            },
+            {
+              "name": "Seura sovellukset",
+              "size": 100
+            }
+          ]
+        },
+        {
+          "name": "Viestintäkanavien kehittäminen",
+          "size": 100
+        },
+        {
+          "name": "Näkyvyyden raportointi",
+          "size": 100
+        },
+        {
+          "name": "Kustannusraportointi",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "Varainkeruu ja yhteistyöt",
+      "children": [
+        {
+          "name": "Avustushakemukset",
+          "size": 100,
+          "children" :[
+            {
+              "name": "Seuratuki",
+              "size": 100
+            },
+            {
+              "name": "Kaupungin/kunnan tuet",
+              "size": 100
+            },
+            {
+              "name": "Säätiöt",
+              "size": 100
+            }
+          ]
+        },
+        {
+          "name": "Yhteistyöpakettien konseptointi",
+          "size": 100
+        },
+        {
+          "name": "Yritysten kontaktointi ja yhteistyöneuvottelut",
+          "size": 100
+        },
+        {
+          "name": "Seurayhteistyöt",
+          "size": 100
+        },
+        {
+          "name": "Koulujen yhteistyöt",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "Valmennus",
+      "children": [
+        {
+          "name": "Valmennusjärjestelmän kehittäminen",
+          "size": 100
+        },
+        {
+          "name": "Valmennuspalveluiden tuotteistaminen",
+          "size": 100
+        },
+        {
+          "name": "Valmennustoiminnan ylläpitäminen",
+          "size": 100
+        },
+        {
+          "name": "Valmentajien rekrytointi",
+          "size": 100
+        },
+        {
+          "name": "Valmentajien kouluttaminen",
+          "size": 100
+        },
+        {
+          "name": "Valmentajien tuurausjärjestelmä",
+          "size": 100
+        },
+        {
+          "name": "Varustehankinnat",
+          "size": 100
+        },
+      ]
+    },
+    {
+      "name": "Halli- ja kenttäliiketoiminta",
+      "children": [
+        {
+          "name": "Kiinteistönhuoltoon liittyvät sopimukset",
+          "size": 100
+        },
+        {
+          "name": "Vakiovuorosopimusten hallinta",
+          "size": 100
+        },
+        {
+          "name": "Varausjärjestelmä",
+          "size": 100
+        },
+        {
+          "name": "Ylläpitotoiminta",
+          "size": 100
+        },
+        {
+          "name": "Hallien/kenttien rakennushankkeiden konsultointi",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "Kilpailut",
+      "children": [
+        {
+          "name": "Kilpailujen suunnittelu ja anominen",
+          "size": 100
+        },
+        {
+          "name": "Arvonta ja aikataulutus",
+          "size": 100
+        },
+        {
+          "name": "Kilpailunjohtajapalvelut",
+          "size": 100
+        },
+        {
+          "name": "Seuran kilpailujohtajien koulutus",
+          "size": 100
+        },
+        {
+          "name": "Arvokilpailuiden järjestäminen",
+          "size": 100
+        }
+      ]
+    },
+    {
+      "name": "Kilpaileminen ja sarjatennis",
+      "children": [
+        {
+          "name": "Sarjatennisjoukkueiden organisointi",
+          "size": 100
+        },
+        {
+          "name": "Sarjatennisjoukkueiden aikataulutus",
+          "size": 100
+        },
+        {
+          "name": "Juniorijoukkueiden ystävyysottelut",
+          "size": 100
+        },
+        {
+          "name": "Seurojen ystävyysottelut",
+          "size": 100
+        },
+        {
+          "name": "Kansainvälisten kilpailuiden matkat",
+          "size": 100,
+          "children": [
+            {
+              "name": "Tennis Europe",
+              "size": 100
+            },
+            {
+              "name": "ITF",
+              "size": 100
+            },
+            {
+              "name": "Senior ITF",
+              "size": 100
+            }
+          ]
+    
+        }
+      ]
+    },
+    {
+      "name": "Tapahtumat ja leirit",
+      "children": [
+        {
+          "name": "Tapahtumien ja leirien järjestäminen",
+          "size": 100,
+          "children" :[
+            {
+              "name": "Kesäleirit",
+              "size": 100
+            },
+            {
+              "name": "Harjoitusleirit",
+              "size": 100
+            },
+            {
+              "name": "Seuramatkat",
+              "size": 100
+            },
+            {
+              "name": "Turnausmatkat - ATP, WTA, Grand Slam",
+              "size": 100
+            }
+
+          ]
+        },
+        {
+          "name": "Tapahtumien suunnittelu",
+          "size": 100
+        }
+      ]
+    },
+
+  ]
+}

@@ -1,6 +1,6 @@
 const color = d3.scaleOrdinal(d3.schemePaired)
 var serviceChart
-fetch('flare.json').then(res => res.json()).then(data => {
+fetch('palvelut.json').then(res => res.json()).then(data => {
   serviceChart = Sunburst()
     .data(data)
     .label('name')
@@ -15,8 +15,6 @@ fetch('flare.json').then(res => res.json()).then(data => {
 
 
 function setColor(node, parent) {
-  console.log(node)
-  console.log(parent)
   if(node && node.col) {
     return colourNameToHex(node.col)
   } else if(parent && parent.data.col) {
