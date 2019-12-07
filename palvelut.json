@@ -59,6 +59,31 @@
       ]
     },
     {
+      "name": "Lakiasiat",
+      "children": [
+        {
+          "name": "Sopimusten hallinta",
+          "size": 200
+        },
+        {
+          "name": "Verotus",
+          "size": 200
+        },
+        {
+          "name": "Tietosuoja-asiat",
+          "size": 200
+        },
+        {
+          "name": "Yhdistyshallinto",
+          "size": 200
+        },
+        {
+          "name": "Konsultointi muissa lakiasioissa",
+          "size": 200
+        }
+      ]
+    },
+    {
       "name": "Jäsenasiat",
       "children": [
         {
@@ -105,32 +130,8 @@
       ]
     },
     {
-      "name": "Lakiasiat",
-      "children": [
-        {
-          "name": "Sopimusten hallinta",
-          "size": 200
-        },
-        {
-          "name": "Verotus",
-          "size": 200
-        },
-        {
-          "name": "Tietosuoja-asiat",
-          "size": 200
-        },
-        {
-          "name": "Yhdistyshallinto",
-          "size": 200
-        },
-        {
-          "name": "Konsultointi muissa lakiasioissa",
-          "size": 200
-        }
-      ]
-    },
-    {
-      "name": "Markkinointi ja viestintä",
+      "name": "Viestintä",
+      "desc": "Markkinointi ja viestintä",
       "children": [
         {
           "name": "Jäsenviestinnän toteuttaminen",
@@ -211,7 +212,8 @@
       ]
     },
     {
-      "name": "Varainkeruu ja yhteistyöt",
+      "name": "Yhteistyöt",
+      "desc": "Varainkeruu ja yhteistyöt",
       "children": [
         {
           "name": "Avustushakemukset",
@@ -282,7 +284,8 @@
       ]
     },
     {
-      "name": "Halli- ja kenttäliiketoiminta",
+      "name": "Halli",
+      "desc": "Halli- ja kenttäliiketoiminta",
       "children": [
         {
           "name": "Kiinteistönhuoltoon liittyvät sopimukset",
@@ -332,7 +335,8 @@
       ]
     },
     {
-      "name": "Kilpaileminen ja sarjatennis",
+      "name": "Kilpaileminen",
+      "desc": "Kilpaileminen ja sarjatennis",
       "children": [
         {
           "name": "Sarjatennisjoukkueiden organisointi",
@@ -370,7 +374,8 @@
       ]
     },
     {
-      "name": "Tapahtumat ja leirit",
+      "name": "Tapahtumat",
+      "desc": "Tapahtumat ja leirit",
       "children": [
         {
           "name": "Tapahtumien ja leirien järjestäminen",
