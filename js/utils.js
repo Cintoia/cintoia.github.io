@@ -1,29 +1,27 @@
 const typos = ['seuranne', 'liittonne', 'hallinne']
 var typoIndex = 0
 const deleteTypo = (callback) => {
-  if($('#typo').text().length > 0) {
-    console.log('No shit ' + $('#typo').text())
-    $('#typo').text($('#typo').text().substring(0, $('#typo').text().length - 1))
-    setTimeout(function() { deleteTypo(callback)}, 200)
+  if($('#typo').text().replace('_','').length > 0) {
+    let endIndex = $('#typo').text().replace('_','').length - 1
+    //let spaces = typos[typoIndex].length - endIndex
+    $('#typo').text($('#typo').text().substring(0, endIndex) + "_")
+    setTimeout(function() { deleteTypo(callback)}, 100)
   } else {
     typoIndex++
     if(typoIndex === typos.length) {
       typoIndex = 0
     }
-    
     callback(deleteTypo)
   }
 }
 
 const typing = (callback) => {
-  console.log('Typing... ' + $('#typo').text())
-  console.log('Should typo... ' + typos[typoIndex])
-  let cLen = $('#typo').text().length
-
+  let cLen = $('#typo').text().replace('_','').length
   if(cLen < typos[typoIndex].length) {
-    $('#typo').text(typos[typoIndex].substring(0, cLen+1))
-    setTimeout(function() { typing(callback)}, 200)
+    $('#typo').text(typos[typoIndex].substring(0, cLen+1) + "_")
+    setTimeout(function() { typing(callback)}, 180 + Math.round((Math.random() * 25)))
   } else {
+    $('#typo').text(typos[typoIndex])
     setTimeout(function() { callback(typing)}, 3000)
   }
 }
