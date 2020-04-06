@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+{% include head.html %}
+
+<body id="page-top">
+  {% include blognav.html %}
+  <div class="blogheader"></div>
+  <section id="services">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-2">&nbsp;</div>
+          <div class="col-lg-4 offset-lg-2">
+          <p class="text-muted">{{ page.category }}</p>
+          <h1 class="section-heading">{{ page.title }}</h1>
+          <a href="/#team"><p class="text-muted">{{ page.date | date: "%-d.%-m.%Y"}} / {{ page.author | date: "%-d.%-m.%Y"}}</p></a>
+        </div>
+          <div class="col-lg-4">
+            <img src="{{ page.image }}" class="img-responsive" alt="">
+          </div>
+      </div>
+        <div class="row">
+          <div class="col-lg-2">&nbsp;</div>
+            <div class="col-lg-8 text-center">
+                <hr class="primary">
+                <div class="text-left">{{ content }}</div>
+            </div>
+        </div>
+    </div>
+  </section>
+  {% include scripts.html %}
+</body>
+
+</html>
+
