@@ -1,11 +1,11 @@
 ---
 layout: post
 author: Anssi
-title: MS Office ja Windows seuroille ilmaiseksi tai hyvin edullisesti
+title: Etävalmennuksen toteuttamisvaihtoehtoja
 category: IT
 image: /img/portfolio/msoffice.jpg
 ---
-Microsoftilla on tarjolla varsin hyvä non-profit organisaatioille tarkoitettu ohjelma.
+Microsoftilla on tajolla varsin hyvä non-profit organisaatioille tarkoitettu ohjelma.
 Kun seurassanne on tarve Wordille, Powerpointille ja Excelille, niin kannattaa hakeutua ohjelmaan.
 
 
