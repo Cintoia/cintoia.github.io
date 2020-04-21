@@ -4,7 +4,7 @@ author: Henrik
 title: Vinkkejä kevään maksujen käsittelyyn
 category: Talous
 image: /img/portfolio/netandraquet.png
-tags: [tennisseurat]
+tags: ["tennisseurat"]
 ---
 
 Tennisseuroissa monesti laskutetaan valmennuskaudet muutamassa osassa. Nyt kun koronaepidemia laittoi kaikkien toiminnan tauolle maaliskuussa, niin jo maksettujen valmennusmaksujen osalta on varmasti erilaisia tilanteita. Osa pelaajista on ehtinyt maksaa kauden loppuun asti maksut. Toiset taas ovat maksaneet sopivasti suunnilleen tauon alkuun asti. 
