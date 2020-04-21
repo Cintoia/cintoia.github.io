@@ -3,7 +3,7 @@ layout: post
 author: Henrik
 title: Vinkkejä kevään maksujen käsittelyyn
 category: Talous
-image: /img/portfolio/netandraquet.png
+image: /img/portfolio/netandracquet.png
 tags: ["tennisseurat"]
 ---
 
