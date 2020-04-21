@@ -1,49 +1,64 @@
 ---
 layout: post
 author: Anssi
-title: Etävalmennuksen toteuttamisvaihtoehtoja
+title: Etävalmennuksen video toteuttamisvaihtoehtoja
 category: IT
 image: /img/portfolio/msoffice.jpg
 ---
-Microsoftilla on tajolla varsin hyvä non-profit organisaatioille tarkoitettu ohjelma.
-Kun seurassanne on tarve Wordille, Powerpointille ja Excelille, niin kannattaa hakeutua ohjelmaan.
+
+Nyt koronan aikaan kun suuri osa seuroista on ottanut käyttöön erilaisia etävalmennusmenetelmiä, niin ajattelin koota erilaisista vaihtoehdoista kokoelman.
+
+Valmennuksia on käytännössä niin sanottuja live-tapahtumia ja ohje-tehtävä-palaute luonteisia.
+
+## Live treenit ##
+
+Live lähetyksissä paljon määrittelee millaisen harjoituksen aikoo pitää. Jos kyseessä on isolle joukolle järjestettävä massatreeni. Esimerkiksi jalkapallojoukkueen yhteinen kuntopiiri, niin silloin ns. broadcast tyylinen lähetystapa sopii erittäin hyvin. Broadcastillä tässä tarkoitetaan sitä, että katselijoilla ei ole samaan aikaan ääni/kuva yhteyttä valmentajan suuntaan. Chat/kommentointi yhteys kyllä on.
+
+Jos taas kyseessä on pienemmälle ryhmälle pidettävä treeni jossa verbaalinen interaktiivisuus ja henkilökohtaisuus on tavoitteena, niin silloin pitää valita online kokouksen lähestymistapa, jossa jokaisella osallistujalla on vähintään oma mikrofoni, mutta toivottavasti myös videokamera. Näillä voidaan saavuttaa erittäin hyvä ja ....
+
+## Ohje-tehtävä-palaute ##
+
+Monet tämän hetken tämän tyyppisistä harjoituksista ovat ehkä enemmänkin osallistuttavia kuin esim tekniikka pohjaisi treenejä.Ohje-tehtävä-palaute tyyppisessä valmennusmenetelmässä riippuu paljon siitä millainen tehtävän palautuksen pitää olla ja miten mahdollinen palautte annetaan.
+Yksinkertaisimmillaan valmennus voidaan toteuttaa videoimalla harjoite lähettämällä se esim. Whatappilla ja tehtävän suorituksena tulee kuittaus viesti tekstinä.
+Toinen ääripää on, että tehtävä ladataan videoanalyysiin erikoistuneeseen ohjelmaan ja tehtävän palautus tapahtuu samaan paikkaan niin, että valmentaja pääsee tekemään analyysin videon perusteella joka sitten palautuu valmennettavalle erilaisten kommenttien ja piirrosten kera.
+Alla käydään läpi kolme eri vaihtoehtoa.
+
+## Oman seuran ilme ##
+
+Erilaisissa kanavissa on erilaiset mahdollisuudet tuoda myös oman seuran ilmettä ja identiteettiä eri tavalla esiin. 
+
+# Massa treenit #
+
+Seuraavassa on käyty läpi erilaisten kanavien sopivuudet, tarvittavat välineet ja miten oman seuran ilmettä on mahdollista tuoda esille.
+
+### Youtube ### 
+
+#### sopivuus ####
+
+#### välineet ####
+
+#### ilmeen luominen ####
+
+### Instagram ### 
+
+### Twitch ### 
+
+### Facebook ###
 
 
-Ehtoina on, että olette Suomessa toimiva yhdistys. Loput Microsoftin ehdot toiminnalle urheiluseuroilla meneekin yhdistystoiminnan suomalaisen määritelmän alle. Ohjelma sisältää kahdenlaisia lisenssejä; lahjoitettuja (Donated) ja alennetulla hinnalla (Discounted) olevia lisenssejä. Lahjoitettuja lisenssejä voivat käyttää yhdistyksen palkkatyöntekijät ja yhdistyksen palkaton johto. Käytännössä palkattomaan johtoon katsotaan seuran hallitus.
+## Pienryhmä treenit ##
 
-Tuote jonka näin saa seuralle käyttöönsä on ***Microsoft 365 Business***. Tuote sisältää valtavan määrän kaikkea MS tuoteperheen osia. Tässä tärkeimmät ja seuran kannalta mielenkiintoisimmat.
+### Skype ###
 
-1. Windows 10 Business - käyttöjärjestelmä
-2. Office-ohjelmiston uusin työpöytäversio
-  * Sisältää Word, Excel, Powerpoint, OneNote, Outlook, OneDrive ja aika monta muuta vähän tuntemattomampaa palvelua
-3. Microsoft Teams
-4. Exchange Online - sähköpostipalvelu
-5. Office for the web - Office ohjelmien verkkoversiot
-6. SharePoint Online - dokumenttien säilytykseen ja esim viikko-ohjelmien tallennukseen mainio palvelu
+### Zoom.us ###
 
-Office ohjelmat ovat myös ladattavissa puhelimeen ja niistä pääsee käsiksi samoihin dokumentteihin kuin pöytäkoneeltakin.
+### Teams ###
 
-Kyseisen paketin nykyinen hinnoittelu on normaalisti 16,90€ / käyttäjä / kk vuositilauksena.
+# Ohje-tehtävä #
 
-Lahjoitettuja lisenssejä Microsoft myöntää 10 kappaletta. Jos tarve on isompi niin lisenssejä saa lisää alennetulla hinnalla (_Discounted license fee_).
+### Video - mail/whatsapp - reply ###
 
-Ohjelmaan hakeuminen on helppoa.
-1. Mene https://nonprofit.microsoft.com/en-us/getting-started
-2. Valitse **Create New Account** > **Register**
-3. Lue infot missä vakuutatte, että ette yhdistyksessänne syrji ketään ja paina **Jatka / Continue**
-4. Valitse maaksi Suomi
-5. Täytä seuranne virallinen nimi, joka löytyy PRH:n rekisteristä
-6. Luokka *Urheilu-, vapaa-ajan-, ja sosiaalinen toiminta*
-7. Alaluokka valitse sopiva seuraanne kuvaava luokka. Erikoisuutena, että jos olette tennisseura, niin sieltä löytyy suoraan *Uinti- tai tennisyhdistys*
-8. Täytä muut tiedot
-9. Paina **Seuraava**
-10. Seuraava sivu on osoite tietoja
-11. Seuraavalla sivulla lisäät yhdistyksen Y-tunnuksen. Muista painaa **Lisää rekisteröintitiedot**
-12. Sitten päästään luomaan tiliä. Tässä kohtaa on hyvä jos tili luodaan sellaisen henkilön nimiin joka on joko puheenjohtaja tai vielä parempi palkattu toiminnanjohtaja. Tämä tili tulee olemaan yksi kymmenestä lisenssin saajasta.
-13. Tämän jälkeen pääset luomaan käyttäjätunnuksen tilille. Hyväksyt ehdot ja **Luo tili**
+### Instagram ###
 
-Microsoft tekee tarkistuksen antamallesi Y-tunnukselle ja yhdistyksen nimelle. Tämä prosessi kestää noin 2-4 viikkoa, jonka jälkeen saat sähköpostiin tiedon siitä millainen lisenssi teille on myönnetty ja ohjeet kuinka ottaa palvelut käyttöön. 
+### Hudl ###
 
-Mikäli haluatte tässä haussa, käyttöönotossa, palveluiden hyödyntämisessä apua tai koulutusta, niin autamme miellämme.
-
-Anssi Lindqvist
