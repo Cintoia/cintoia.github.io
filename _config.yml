@@ -7,7 +7,7 @@ url: "https://www.cintoia.com" # the base hostname & protocol for your site
 phone: "+358405419317"
 twitter_username: cintoia
 instagram_username: cintoiafeel
-
+loginpage: "https://feel.cintoia.com"
 
 # Build settings
 markdown: kramdown
