@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 
-{% include head.html %}
+{% include posthead.html %}
 
 <body id="page-top">
   {% include blognav.html %}
@@ -10,22 +10,42 @@
     <div class="container">
       <div class="row">
         <div class="col-lg-2">&nbsp;</div>
-          <div class="col-lg-4 offset-lg-2">
+        <div class="col-lg-4 offset-lg-2">
           <p class="text-muted">{{ page.category }}</p>
           <h1 class="section-heading">{{ page.title }}</h1>
-          <a href="/#team"><p class="text-muted">{{ page.date | date: "%-d.%-m.%Y"}} / {{ page.author | date: "%-d.%-m.%Y"}}</p></a>
+          <a href="/#team">
+            <p class="text-muted">{{ page.date | date: "%-d.%-m.%Y"}} / {{ page.author | date: "%-d.%-m.%Y"}}</p>
+          </a>
         </div>
-          <div class="col-lg-4">
-            <img src="{{ page.image }}" class="img-responsive" alt="">
-          </div>
+        <div class="col-lg-4">
+          <img src="{{ page.image }}" class="img-responsive" alt="">
+        </div>
       </div>
-        <div class="row">
-          <div class="col-lg-2">&nbsp;</div>
-            <div class="col-lg-8 text-center">
-                <hr class="primary">
-                <div class="text-left">{{ content }}</div>
-            </div>
+      <div class="row">
+        <div class="col-lg-2">&nbsp;</div>
+        <div class="col-lg-8 text-center">
+          <hr class="primary">
+          <div class="text-left">{{ content }}</div>
         </div>
+      </div>
+      <div class="row">
+        <div class="col-lg-2">&nbsp;</div>
+        <div class="col-lg-8">
+          <div class="row">
+            <div class="col-lg-5">
+              {% if page.previous.url %}
+              <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
+              {% endif %}
+            </div>
+            <div class="col-lg-2">&nbsp;</div>
+            <div class="col-lg-5 text-right">
+              {% if page.next.url %}
+              <a class="next" href="{{page.next.url}}">{{page.next.title}} &raquo;</a>
+              {% endif %}
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
   </section>
   {% include scripts.html %}
@@ -33,4 +53,3 @@
 </body>
 
 </html>
-

@@ -1,9 +1,11 @@
 ---
 layout: post
 author: Anssi
+author_twitter: anssili
 title: MS Office ja Windows seuroille ilmaiseksi tai hyvin edullisesti
 category: IT
 image: /img/portfolio/msoffice.jpg
+summary: Ohjeet siihen miten seura voi hakea itselleen oikeuden käyttää MS Officea ja Windowsia ilmaiseksi.
 ---
 Microsoftilla on tarjolla varsin hyvä non-profit organisaatioille tarkoitettu ohjelma.
 Kun seurassanne on tarve Wordille, Powerpointille ja Excelille, niin kannattaa hakeutua ohjelmaan.

@@ -1,10 +1,12 @@
 ---
 layout: post
 author: Henrik
+author_twitter: HenrikZilliacus
 title: Vinkkejä kevään maksujen käsittelyyn
 category: Talous
 image: /img/portfolio/netandracquet.png
 tags: tennisseurat
+summary: Vinkkejä tennisseuroille miten käytännössä hoitaa koronan takia pysäytetyn valmennuksen mahdolliset maksujen palautukset.
 ---
 
 Tennisseuroissa monesti laskutetaan valmennuskaudet muutamassa osassa. Nyt kun koronaepidemia laittoi kaikkien toiminnan tauolle maaliskuussa, niin jo maksettujen valmennusmaksujen osalta on varmasti erilaisia tilanteita. Osa pelaajista on ehtinyt maksaa kauden loppuun asti maksut. Toiset taas ovat maksaneet sopivasti suunnilleen tauon alkuun asti. 
@@ -31,3 +33,4 @@ Ottamalla korvausjärjestelmän käyttöön, pelaajille voi varastoida yksittäi
 
 Toivottavasti näistä vinkeistä on apua. Jos tarvitset teknistä tukea esim. palautusten laskemiseen tai neuvontaa juridisissa kysymyksissä, ota rohkeasti yhteyttä vaikka chattimme kautta.
 
+Henrik Zilliacus
