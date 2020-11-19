@@ -16,7 +16,5 @@ On mahtavaa lähteä kehittämään erinomaisen sitoutuneen ja innostuneen poruk
 Kiitos Talille, Taivallahdelle ja HVS:lle luottamuksesta.
 
 
-[Tennisliiton uutinen yhteistyöstä](https://www.tennis.fi/uutiset/tennisliitto-ja-cintoia-oy-solmivat-yhteistyosopimuksen/)
-
 
 

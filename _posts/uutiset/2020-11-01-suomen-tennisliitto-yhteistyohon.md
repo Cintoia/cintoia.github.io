@@ -17,7 +17,5 @@ Tennisliiton toimitusjohtaja Teemu Purho kommentoi alkavaa yhteistyötä.
 On hienoa päästä jatkamaan yhteistyötä Tennisliiton kanssa. Suunnitelmat kattavat jo nyt erinäisiä prosessien sujuvoittamishankkeita ensi vuodelle.
 Kiitos Tennisliitolle luottamuksesta.
 
-
-
-
+[Tennisliiton uutinen yhteistyöstä](https://www.tennis.fi/uutiset/tennisliitto-ja-cintoia-oy-solmivat-yhteistyosopimuksen/)
 
