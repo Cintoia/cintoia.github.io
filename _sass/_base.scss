@@ -97,7 +97,8 @@ aside {
                 text-transform: uppercase;
                 font-weight: 700;
                 font-size: 13px;
-                color: $theme-dark;
+                // color: $theme-dark;
+                color: #000000;
                 &:hover {
                     color: $theme-primary;
                 }
@@ -118,7 +119,7 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .7);
         .navbar-header .navbar-brand {
-            color: rgba(white, 1.0);
+            color: rgba(rgb(0, 0, 0), 1.0);
             &:hover,
             &:focus {
                 color: white;
@@ -126,17 +127,17 @@ aside {
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, 1.0);
+            color: rgba(rgb(0, 0, 0), 1.0);
             &:hover {
                 // color: white;
-                color: #F05F40;
+                color: #000000;
             }
         }
         &.affix {
             background-color: white;
             border-color: rgba($theme-dark, .5);
             .navbar-header .navbar-brand {
-                color: $theme-primary;
+                color: #000000;//$theme-primary;
                 font-size: 14px;
                 &:hover,
                 &:focus {
@@ -288,6 +289,24 @@ header {
     }
 }
 
+.integration-box {
+    max-width: 400px;
+    min-height: 180px;
+    margin: 50px auto 0;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: lightgray;
+    padding-bottom: 20px;
+    @media (min-width: 992px) {
+        margin: 20px auto 0;
+    }
+    p {
+        margin-bottom: 0;
+    }
+}
+
+
 .portfolio-box {
     position: relative;
     display: block;
@@ -395,7 +414,7 @@ header {
 .btn {
     @include sans-serif-font;
     border: none;
-    border-radius: 300px;
+    // border-radius: 300px;
     font-weight: 700;
     text-transform: uppercase;
 }
