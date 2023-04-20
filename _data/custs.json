@@ -43,7 +43,7 @@
       "image": "https://images.prismic.io/h15-areena/116d60c9-bdfc-4516-bd65-5e4179f7fb9c_hi5+logo.png?auto=compress,format&rect=0,0,156,118&w=156&h=118"
     },
     {
-      "title": "HyTS",
+      "title": "",
       "id": "QiWSWHlFphVqlZdrWM8P",
       "url": "hyts.cintoia.com",
       "image": "https://suomentennisliitto.kuvat.fi/kuvat/Seuralogoja/hyTS%20logo%20va%CC%88rillinen%20sloganin%20kanssa.jpg?img=img2048"
@@ -125,6 +125,12 @@
       "id": "MAdrFeNrPMer7buvI8No",
       "url": "lahdentennisjasquash.cintoia.com",
       "image": "http://www.tennishalli.net/wp-content/uploads/2017/03/Lahden_Ten_Squ_keskus_logo.png"
+    },
+    {
+      "title": "Lammin Tennisseura",
+      "id": "c7JBQq0yKJmU3pd4anb8",
+      "url": "lammintennisseura.cintoia.com",
+      "image": "https://cfalconassets.s3.eu-north-1.amazonaws.com/public/lammintennis.png"
     },
     {
       "title": "Lentolan Padel Kangasala",
@@ -273,7 +279,7 @@
     {
       "title": "Valkeakosken Tenniskeskus",
       "id": "6nKymtuSZEbGpliBnxTR",
-      "url": "valkeakoskentennis.cintoia.com",
+      "url": "valkeakoskentenniskeskus.cintoia.com",
       "image": "https://www.valkeakoskentenniskeskus.fi/wp-content/uploads/Valkeakosken-Tenniskeskus-logo_web.png"
     },
     {
