@@ -16,13 +16,25 @@
       "title": "Espoon Verkkopalloseura",
       "id": "E4xnHx2nscOKwImlFcj1",
       "url": "evs.feel.cintoia.com",
-      "image": "https://evs.feel.cintoia.com/static/media/logo_evs.208e915f.png"
+      "image": "https://d1xiav7638zfvc.cloudfront.net/BYlVvoScZ.png"
+    },
+    {
+      "title": "",
+      "id": "eOPoSvRNfF1pPjDHjBko",
+      "url": "fitgolf.cintoia.com",
+      "image": "https://31c5b30119.clvaw-cdnwnd.com/0d1a319d99c6cd5a4be648baa088bb8a/200000014-c2090c2091/700/FitGolf%20logo-C-0.jpg?ph=31c5b30119"
     },
     {
       "title": "Global Padel Games",
       "id": "rL2tA2HbQPUC2ZHQteTf",
       "url": "globalpadelgames.cintoia.com",
       "image": "https://venuemanager.s3.eu-north-1.amazonaws.com/assets/global.jpg"
+    },
+    {
+      "title": "G x Mod",
+      "id": "PQjkxUGP5rTNwSZZfaLe",
+      "url": "gxmod.cintoia.com",
+      "image": "data:image/png;base64,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"
     },
     {
       "title": "Hämeenlinnan Tenniskeskus",
@@ -115,10 +127,10 @@
       "image": "https://ovstennis.net/wp-content/themes/ovs/library/images/ovs-logo-new.png"
     },
     {
-      "title": "Kotkan Tennishalli",
+      "title": "",
       "id": "gJlEOEtzZ8tGFqLwT1uE",
       "url": "kotkantennishalli.cintoia.com",
-      "image": "data:image/png;base64,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"
+      "image": "https://www.kotkantennishalli.fi/wp-content/uploads/kotkan-tennishalli-logo.svg"
     },
     {
       "title": "Kouvolan Tennishalli",
@@ -139,7 +151,7 @@
       "image": "https://cfalconassets.s3.eu-north-1.amazonaws.com/public/g221.png"
     },
     {
-      "title": "Lahden Tennis- ja Squashkeskus",
+      "title": "",
       "id": "MAdrFeNrPMer7buvI8No",
       "url": "lahdentennisjasquash.cintoia.com",
       "image": "http://www.tennishalli.net/wp-content/uploads/2017/03/Lahden_Ten_Squ_keskus_logo.png"
@@ -199,10 +211,10 @@
       "image": "https://content.tournamentsoftware.com/images/club/37CC6EEE-5D2F-4F5A-AB8A-71DCB8556195.jpg"
     },
     {
-      "title": "ONSE-Areena",
+      "title": "",
       "id": "emlKdYn9ucpgcdJhrJ3d",
       "url": "onse-areena.cintoia.com",
-      "image": "data:image/png;base64,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"
+      "image": "https://d1xiav7638zfvc.cloudfront.net/s0Cc_itru.svg"
     },
     {
       "title": "",
@@ -241,6 +253,30 @@
       "image": "https://padelhallit.fi/wp-content/uploads/2021/03/PadelVihti_SK08aA01A-1024x639-1.jpg"
     },
     {
+      "title": "Passion Golf Helsinki",
+      "id": "igs8i0IXd14qrt0VfZdw",
+      "url": "passiongolfhelsinki.cintoia.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLck_GuMhiIA45dQoeiUD8XXkm9jJ4MoKDDg&usqp=CAU"
+    },
+    {
+      "title": "Passion Golf Iisalmi",
+      "id": "CRYXiXtkz8zmPZ3GQdU7",
+      "url": "passiongolfiisalmi.cintoia.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLck_GuMhiIA45dQoeiUD8XXkm9jJ4MoKDDg&usqp=CAU"
+    },
+    {
+      "title": "Passion Golf Kuopio",
+      "id": "9m7J6j6hK7wt0jYaLvDB",
+      "url": "passiongolfkuopio.cintoia.com",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLck_GuMhiIA45dQoeiUD8XXkm9jJ4MoKDDg&usqp=CAU"
+    },
+    {
+      "title": "Pello Padel",
+      "id": "BN0SxP4C84NH1hv0zCrH",
+      "url": "pellopadel.cintoia.com",
+      "image": "data:image/png;base64,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"
+    },
+    {
       "title": "",
       "id": "7Lydb5Cm7rXIya7gJSqw",
       "url": "pickleball-center.cintoia.com",
@@ -259,10 +295,16 @@
       "image": "https://cfalconassets.s3.eu-north-1.amazonaws.com/public/pyynikki.svg"
     },
     {
+      "title": "RacquetClub - Yritystie ja Leppävesi",
+      "id": "2yy3wnECgPXzJuRVaTGv",
+      "url": "racquetclub.cintoia.com",
+      "image": "data:image/png;base64,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"
+    },
+    {
       "title": "Riihimäen Verkkopalloseura ry",
       "id": "JuS83x87iEHTeGkMjLLJ",
       "url": "rivs.cintoia.com",
-      "image": "https://www.rivs.fi/wordpress/wp-content/uploads/2019/11/rivs16-300x202.png"
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVUW2OxxXRuZp2pTgKzZKcQdR_JkUp0y5f_w&usqp=CAU"
     },
     {
       "title": "Rovaniemen Mailapelikeskus",
@@ -275,12 +317,6 @@
       "id": "feN5jDTqbJVIo5kE0hY2",
       "url": "salontenniskeskus.cintoia.com",
       "image": "https://cfalconassets.s3.eu-north-1.amazonaws.com/public/SaTS-logo.png"
-    },
-    {
-      "title": "",
-      "id": "45oKmz62glGuOhDeLe9F",
-      "url": "sulkapallo.cintoia.com",
-      "image": "https://www.sulkapallo.fi/site/templates/resources/img/sulkapallo-logo.svg"
     },
     {
       "title": "",
@@ -307,6 +343,12 @@
       "image": "https://cfalconassets.s3.eu-north-1.amazonaws.com/public/targa-arena-logo-1.jpg"
     },
     {
+      "title": "",
+      "id": "I0AIKC7XSiY5iSNW3H8j",
+      "url": "tennispuisto.cintoia.com",
+      "image": "https://tennispuisto.fi/wp-content/uploads/2018/05/wanhalogo.png"
+    },
+    {
       "title": "Tornion Tennishalli",
       "id": "UT8PwGu0wzLxA6pEmzqD",
       "url": "torniontennishalli.cintoia.com",
@@ -316,7 +358,7 @@
       "title": "",
       "id": "p4iiRFikvGf7YjD70e6A",
       "url": "tuusulantenniskeskus.cintoia.com",
-      "image": "https://cfalconassets.s3.eu-north-1.amazonaws.com/public/tuusulantenniskeskus-logo.png"
+      "image": "https://d1xiav7638zfvc.cloudfront.net/ituvM4fNn.PNG"
     },
     {
       "title": "Valkeakosken Tenniskeskus",
